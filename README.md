@@ -1,6 +1,6 @@
 HDB Resale Price Prediction using Linear Regression
 Project Overview
-This project is part of a General Assembly AGILE Data Sprint, where the goal was to analyze housing data and predict HDB resale prices using a linear regression model. The dataset comprises key features of HDB flats in Singapore, such as town, size, floor level, and flat type, to identify factors influencing resale prices.
+This project is part of a General Assembly's AGILE Data Sprint, where the goal was to analyze housing data and predict HDB resale prices using a linear regression model. The dataset contains data from 2012 to 2021 & comprises key features of HDB flats in Singapore, such as town, size, floor level, and flat type, to identify factors influencing resale prices.
 
 Through exploratory data analysis (EDA), model building, and fine-tuning, the project achieved a root mean square error (RMSE) of 60K on prices ranging from 165K to 1.18M. The insights and results of this project can support policy makers, real estate professionals, and homebuyers in understanding price dynamics and making informed decisions.
 
@@ -42,9 +42,8 @@ Flat size and type are among the strongest predictors of resale prices.
 Floor level impacts resale prices, with higher floors generally commanding premium prices.
 Resale prices vary significantly across towns, highlighting geographical price disparities.
 
-Technologies Used:
-Python:
-Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Languages/Applications:
+Python: Libraries used - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Jupyter Notebook (built on Deepnote) - For data exploration, model building, and visualization.
 
 Future Improvements:
